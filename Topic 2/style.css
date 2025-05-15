@@ -1,0 +1,52 @@
+/* Basic Reset */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Header and Navigation Styling */
+header {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 10px 0 0;
+  display: flex; /* Layout: horizontal list */
+  gap: 20px;
+}
+
+nav li {
+  display: inline; /* Task: inline styling */
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+/* Main Content */
+main {
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+article {
+  background-color: #fff;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 800px;
+  border: 1px solid #ddd;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+/* Footer Styling */
+footer {
+  text-align: center;
+  padding: 15px;
+  background-color: #333;
+  color: white;
+}
