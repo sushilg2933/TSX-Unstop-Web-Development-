@@ -1,0 +1,8 @@
+/* Task 2: Style the heading and paragraph */
+h1 {
+  color: darkblue;
+}
+
+p {
+  font-size: 18px;
+}
